@@ -26,12 +26,9 @@ const ERROR = {
     contrastText: "#000"
 }
 const WARNING = {
-    main: "#F2D34E",
-    contrastText: "#000"
-}
-const VARIANTBTN = {
-
-}
+  main: "#F2D34E",
+  contrastText: "#000",
+};
 
 
 function MThemeProvider({ children }) {
